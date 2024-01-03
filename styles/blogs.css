@@ -1,0 +1,12 @@
+.topSite{
+    background-color: darkcyan;
+    text-align: center;
+    font-size: larger;
+}
+.heading{
+    font-family: 'Courier New', Courier, monospace;
+}
+*{
+    margin: 5px;
+    padding: 10px;
+}
